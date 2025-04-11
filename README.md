@@ -23,11 +23,3 @@ Aqui eu vou praticar desde o básico até os tópicos mais cabeludos, tipo manip
 - `💻` Projetinhos e desafios extras ✨
 
 ---
-
-## 🛠️ Como compilar os códigos?
-
-Se você também tá usando o GCC, pode compilar assim:
-
-```bash
-gcc nome_do_arquivo.c -o nome_do_programa
-.\nome_do_programa
