@@ -1,6 +1,6 @@
 # 🧠 C de Certeza que Eu Vou Aprender
 
-Oiê! 🌼 Meu nome é Ester e este repositório é o meu cantinho de estudos da linguagem C!  
+Oiê! 🌼 Meu nome é Ester e esse repositório é o meu cantinho de estudos da linguagem C!  
 Se você também tá nessa jornada de entender ponteiros sem surtar (muito), seja muito bem-vindo(a)! ☕📚
 
 ---
