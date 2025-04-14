@@ -15,7 +15,6 @@ Aqui eu vou praticar desde o básico até os tópicos mais cabeludos, tipo manip
 ## 🧩 O que tem aqui?
 
 ### 🌱 Fundamentos da Linguagem C
-- História da linguagem C e sua importância
 - Estrutura de um programa em C
 - Compilação e execução
 - Comentários
